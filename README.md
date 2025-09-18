@@ -40,7 +40,7 @@ Os exercícios estão organizados por etapas (1 a 4), cada uma cobrindo novos co
    ```bash
    git clone https://github.com/seu-usuario/step_by_step_flask.git
    cd step_by_step_flask
-````
+
 
 2. Crie um ambiente virtual e instale o Flask:
 
@@ -49,27 +49,23 @@ Os exercícios estão organizados por etapas (1 a 4), cada uma cobrindo novos co
    source venv/bin/activate   # Linux / Mac
    venv\Scripts\activate      # Windows
    pip install flask
-   ```
+
 
 3. Execute qualquer arquivo de exemplo:
 
    ```bash
    python 3.2_flask.py
-   ```
+
 
 4. Abra no navegador:
 
    ```
    http://127.0.0.1:5000/
-   ```
 
----
 
 ## 🎯 Objetivo
 
 Este repositório serve como um **guia prático de aprendizado** para quem deseja começar com Flask, construindo aplicações web passo a passo — do **"Hello World"** até **formulários com validação**.
-
----
 
 ✨ Desenvolvido com dedicação por [Johnny]([https://github.com/TJfiles]).
 
