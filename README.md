@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 Step by Step Flask
 
 Este repositório contém uma coleção de exercícios práticos em **Flask**, desenvolvidos passo a passo para aprender os conceitos fundamentais de rotas, templates e formulários em aplicações web com Python.
@@ -73,4 +73,4 @@ Este repositório serve como um **guia prático de aprendizado** para quem desej
 
 ✨ Desenvolvido com dedicação por [Johnny]([https://github.com/TJfiles]).
 
-```
+
